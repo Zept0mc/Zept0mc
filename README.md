@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on getting a hang on basic programming concepts and languages<br>🌱 I’m currently learning c#, cpp and React<br>👯 I’m looking to collaborate on begginer-friendly projects with other aspiring programmers<br>🤔 I’m looking for help with grasping the nuances of low level programming in cpp/c<br>💬 Ask me about my sports career as it's a little bit more elaborate than the coding one so far 😄<br>📫 How to reach me: kuba.kuczera11@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I used to be top 3 Poland in 3 categories, judo, chess and table tennis. Yes, they have absolutely nothing in common.
+🔭 I’m currently working on getting a hang on basic programming concepts and languages<br>🌱 I’m currently learning c#, cpp and React<br>👯 I’m looking to collaborate on begginer-friendly projects with other aspiring programmers<br>🤔 I’m looking for help with grasping the nuances of low level programming in cpp/c<br>💬 Ask me about my sports career as it's a little bit more elaborate than the coding one so far 😄<br>📫 How to reach me: jakub.kuczera.official@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I used to be top 3 Poland in 3 categories, judo, chess and table tennis. Yes, they have absolutely nothing in common.
 
 
 ## 🌐 Socials:
